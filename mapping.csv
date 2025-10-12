@@ -1,0 +1,11 @@
+Line_Item,Statment,OrderID
+Premiums,TradPL,1
+Inv Inc,TradPL,2
+Lapse Outgo,TradPL,3
+Maturity Outgo,TradPL,4
+Change in Res,TradPL,5
+Profit,Ignore,1
+AMC,MarginPL,1
+Risk Chrg,MarginPL,2
+Surrender Chrg,MarginPL,3
+Mat Guarantee,MarginPL,4
