@@ -1,0 +1,6 @@
+torch
+gradio
+pandas
+scikit-learn
+requests
+io
