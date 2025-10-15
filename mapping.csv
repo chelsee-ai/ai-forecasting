@@ -9,3 +9,7 @@ AMC,MarginPL,1
 Risk Chrg,MarginPL,2
 Surrender Chrg,MarginPL,3
 Mat Guarantee,MarginPL,4
+Unit Liabilities,BS,4
+Equities,BS,1
+Bonds,BS,2
+Cash,BS,3
